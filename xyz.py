@@ -1,1 +1,2 @@
-print("im from abc")
+while(1):
+         print("im from abc")
