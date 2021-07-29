@@ -1,1 +1,2 @@
-print("hello im from python")
+while(1):
+        print("hello im from python")
